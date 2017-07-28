@@ -1,6 +1,6 @@
 // JavaScript File
 // JavaScript File
-$( document ).ready(function() {
+$( d ).ready(function() {
 
 
 });
